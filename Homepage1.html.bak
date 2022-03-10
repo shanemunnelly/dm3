@@ -1,0 +1,39 @@
+	 <!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8"/>
+<title>WestSide Scran </title>
+	<link href="Homepage1.css" rel="stylesheet"/>	
+	
+	<div id=div2> WestSide Scran	</div> 
+	<div id=div1>  
+	<p id="myHeader"><a id = "mylink" href="index.html"> Home </a></p>	
+	<p id="myHeader"><a id = "mylink" href=""> About us </a></p> 
+	<p id="myHeader"><a id = "mylink" href=""> Recipes </a></p> 
+	<div>
+	
+	</head>
+	<body>
+	<div id=div4> 
+	<h1> About us </h1>
+	<p> Westside scran is a company based in westside galway hoping to give customers new and interesting receipes they can try to spice up their meals.</p>
+	<h1>Contact information </h1>
+	<table>
+  <tr>
+    <th>Position</th>
+    <th>Contact</th>
+  </tr>
+  <tr>
+    <td></td>
+     <td></td>
+  </tr>
+
+</table>
+	
+	</div> 
+
+
+	
+</body>	
+</html>
+

@@ -1,0 +1,68 @@
+
+
+#div1{
+margin-left: 100px;
+background-color: Green;
+color: white;
+ width: 200px;
+  height: 900px;
+  float: left;
+}
+p{ 
+color: black;
+}
+
+#div2{
+margin-left: 100px;
+background-color: Black;
+ text-align: center;
+ width: 900px;
+ font-size: 100px;
+ color: white;
+} 
+
+#myHeader {
+	background-color:black ; 
+	width: 100px; 
+	padding: 10px;
+	border-radius: 5px 5px 5px 5px;
+    margin-left: 40px;
+	margin-bottom: 20px
+	border: solid;
+	border-color: black;
+	color: White;
+}
+#div4{
+margin-top: -100px;
+ margin-left: 250px;
+ width: 300px;
+color: black;  
+}
+table, th, td {
+  border:1px solid black;
+}
+
+#mylink {
+color: white;
+ text-decoration: none;	
+}
+
+.grid-container {
+  margin-top: -100px;
+  margin-left: 200px;
+  float: left;
+  display: grid;
+  grid-template-columns: auto auto;
+  
+}
+
+.grid-item {
+  width: 250px;
+  height: 500px;
+  border: 1px solid black;
+  padding: 20px;
+  margin-left: 40px;
+   margin-bottom: 40px;
+  font-size: 30px;
+  text-align: center;
+}
